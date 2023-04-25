@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 1
+title: Orangutan Fisher
+date: 2014-07-18
+img: oranguntan_spearfishing.jpg
+alt: image-alt
+category: Hunter-Gatherer
+description: He fishes with spears. Very neat.
+---
