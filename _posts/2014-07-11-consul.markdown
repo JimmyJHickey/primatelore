@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 title: Consul
-date: 2014-07-15
+date: 2014-07-11
 img: consul.jpg
 alt: image-alt
 category: Workers' Rights
