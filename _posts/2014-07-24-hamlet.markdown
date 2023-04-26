@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 12
+title: Jill Shakespeare
+date: 2014-07-24
+img: hamlet.jpg
+alt: image-alt
+category: Writer
+description: Working on Hamlet fanfic.
+---
+
+

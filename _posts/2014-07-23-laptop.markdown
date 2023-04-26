@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 11
+title: Phil Shakespeare
+date: 2014-07-24
+img: laptop.jpg
+alt: image-alt
+category: Writer
+description: Looking for the "Write Macbeth 2" key on the keyboard.
+---
+
+

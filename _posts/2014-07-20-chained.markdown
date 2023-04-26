@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 8
+title: Chained Kong
+date: 2014-07-20
+img: chained_kong.jpg
+alt: image-alt
+category: War criminal
+description: Not all apes are good.
+---

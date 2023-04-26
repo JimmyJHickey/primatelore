@@ -1,0 +1,10 @@
+---
+layout: default
+modal-id: 9
+title: Powerade Pablo
+date: 2014-07-21
+img: powerade.jpg
+alt: image-alt
+category: Brand Representative
+description: Pablo is a spokeschimp for Powerade. "Better than bananas" - Pablo
+---
